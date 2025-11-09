@@ -120,7 +120,7 @@ def prediction():
             5. Pastikan suhu dan pencahayaan kamar nyaman.
             6. Konsultasikan dengan psikolog jika gangguan berlangsung lebih dari 2 minggu.
             7. Hindari tidur siang terlalu lama (maks 20 sampai 30 menit).
-            """
+            """,
 
             "Sleep Apnea": f"""
             **Solusi untuk {nama_pengguna} (Sleep Apnea):**
