@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+xgboost
+pandas
+numpy
+fpdf
+streamlit-option-menu
+joblib
+base64
+seaborn
+matplotlib
